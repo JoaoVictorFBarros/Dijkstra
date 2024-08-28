@@ -13,7 +13,7 @@ git clone https://github.com/JoaoVictorFBarros/Dijkstra.git
 Se ainda não tiver as bibliotecas instaladas, use:
 
 ```
-pip install tkinter networkx matplotlib
+pip install networkx matplotlib
 ```
 
 ### Executando o Projeto
